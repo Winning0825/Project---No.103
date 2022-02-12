@@ -1,0 +1,31 @@
+body{
+color:black;
+background-color: pink;
+
+}
+
+.heading{
+width:80%;
+font-size: 22px;
+
+}
+
+.name_of_objects{
+color:darkred;
+
+
+}
+
+#camera{
+
+    border:2px;
+    border-style:ridge;
+    border-color:crimson;
+    width:350px;
+    height:300px;
+}
+
+#result_object_name{
+
+color:lavenderblush;
+}
